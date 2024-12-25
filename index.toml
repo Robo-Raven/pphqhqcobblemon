@@ -86,6 +86,11 @@ hash = "a6da5cc5977a554f565bd614604b5a45a2a92cedd84ed351b7be4751fb5db03c"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "544c21f44b8d8d69c971db57bfd08b863df6d6a7fd77598c3540766b396d3531"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "c2973bd62002607b48da49ac0ae473d6e720769bcac134622fcb631c93e34d57"
 metafile = true
@@ -161,8 +166,13 @@ hash = "fa92da0affa39faf994a81f6e1676905fdf3e524933922e3477425634af93a01"
 metafile = true
 
 [[files]]
-file = "mods/genshin-instruments.pw.toml"
-hash = "b6eee55eaa693052a797327f4ec5c0d4553164b1166c98c7277d379c917aff17"
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "df00867b53b8f25b9090556802101b7d9ca49ee414750431e66d6d5461a0e8df"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c9c1134b6475be8d2d101bb7a29afbe43ca7f7df04819ad350e7cc96dbf1284a"
 metafile = true
 
 [[files]]
