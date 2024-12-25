@@ -1,6 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "e4830f22a406c683c7f97a6eae5ab951c71dbd200c66ed53ac1b12000d41afb1"
-metafile = true
+files = []
