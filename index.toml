@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "004df838dd5c3715eead9a764f2149620d9199f044f2bab3731f04a43ff196a8"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -31,6 +41,11 @@ hash = "f83133176d5d69c1e9af63a3948fd61ec4feee53015ca8453e62ec9791a33a4d"
 metafile = true
 
 [[files]]
+file = "mods/better-brightness-slider-respawn.pw.toml"
+hash = "9921a9b4bdae2fe6cc09557013cb55b6a973a2e1725c3f5329d8d519a60e5666"
+metafile = true
+
+[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "61d4a634f8f97b96723a4fafa56612c1d78f4c9261574a72e01676b5763159e8"
 metafile = true
@@ -58,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
@@ -121,8 +141,13 @@ hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "d1f69f8b7189e51cb7328e87cb4f8168b2b0fcc265e1782b5a9febb08010ce4f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "497b906a1005d420251ed82bb438790604b7ed5b17945fefadd0c71e840cb163"
+hash = "c78d10452bc3415b38ed2ad521d1cc64f79b548411086db44e061deb30dbf41f"
 metafile = true
 
 [[files]]
@@ -168,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
 metafile = true
 
 [[files]]
@@ -256,8 +286,18 @@ hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8d28bb5758c1c373f380d150ba3a75dd157dde3280a9a2554f41ecbfee02428e"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "bee6d3dd094cf4684dee78afd84a47cd168ef0cae02a64bd7d2486fe781a3156"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6f63a47571142655b5030749ede2ab92c3fa830bdd3fcf3f6381e7f75f9f9ab"
 metafile = true
 
 [[files]]
@@ -281,8 +321,8 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "693730f1285148c60732c5d97a8906964c5e9bc88cdc9576d1fb8b8def95bf68"
+file = "mods/simple-hats.pw.toml"
+hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
 metafile = true
 
 [[files]]
@@ -323,6 +363,56 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "34f4cf50c5c1780ceb558de500bddb313e1e09dac4fc5f8f2ef937ea1d682820"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "0df3146d35a0d29e2a7011aa4cd1c1233b1151edc13ff723af04e71458c8ea03"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "27fa137cbc4e152b316ef8e7f11d1e2551768e24bab2ffbc8467165302c3a7c3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "19b478dba95d57f5e5c22958175e212368eae5c3eead77d2b258b64cceb0358c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "e223aea35b4bbe85f44e70be45c4fe9892d3729d27f61e5f6461c0a40612ed12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
 
 [[files]]
