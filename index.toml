@@ -21,21 +21,6 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/ars-additions.pw.toml"
-hash = "ad7b1631eadc5afc7c4ccc234ac3d459a135a956cbb440834f11d3f9f626c44b"
-metafile = true
-
-[[files]]
-file = "mods/ars-elemental.pw.toml"
-hash = "9786077695d5aa7d4c05ba9a2dfba7f64362c1db90f4d20de20f19fac0cb77a7"
-metafile = true
-
-[[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "8aa7683b486369954a117b7b4c7b0008405729235c7fce9e3a35042c66957058"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "f83133176d5d69c1e9af63a3948fd61ec4feee53015ca8453e62ec9791a33a4d"
 metafile = true
@@ -158,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/flower-patch.pw.toml"
 hash = "fa92da0affa39faf994a81f6e1676905fdf3e524933922e3477425634af93a01"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "94e3734cfd496b0ad70de0a245b482239f417ff7f3c3e0068f48d0360c0c1d87"
 metafile = true
 
 [[files]]
