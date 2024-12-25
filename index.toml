@@ -21,13 +21,23 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "f83133176d5d69c1e9af63a3948fd61ec4feee53015ca8453e62ec9791a33a4d"
+file = "mods/ars-additions.pw.toml"
+hash = "ad7b1631eadc5afc7c4ccc234ac3d459a135a956cbb440834f11d3f9f626c44b"
 metafile = true
 
 [[files]]
-file = "mods/better-brightness-slider-respawn.pw.toml"
-hash = "9921a9b4bdae2fe6cc09557013cb55b6a973a2e1725c3f5329d8d519a60e5666"
+file = "mods/ars-elemental.pw.toml"
+hash = "9786077695d5aa7d4c05ba9a2dfba7f64362c1db90f4d20de20f19fac0cb77a7"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "8aa7683b486369954a117b7b4c7b0008405729235c7fce9e3a35042c66957058"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f83133176d5d69c1e9af63a3948fd61ec4feee53015ca8453e62ec9791a33a4d"
 metafile = true
 
 [[files]]
@@ -58,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
-metafile = true
-
-[[files]]
-file = "mods/configured.pw.toml"
-hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
@@ -126,11 +131,6 @@ hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
 metafile = true
 
 [[files]]
-file = "mods/enders-delight.pw.toml"
-hash = "d1f69f8b7189e51cb7328e87cb4f8168b2b0fcc265e1782b5a9febb08010ce4f"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c78d10452bc3415b38ed2ad521d1cc64f79b548411086db44e061deb30dbf41f"
 metafile = true
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/flower-patch.pw.toml"
 hash = "fa92da0affa39faf994a81f6e1676905fdf3e524933922e3477425634af93a01"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c9c1134b6475be8d2d101bb7a29afbe43ca7f7df04819ad350e7cc96dbf1284a"
 metafile = true
 
 [[files]]
@@ -261,11 +266,6 @@ hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "8d28bb5758c1c373f380d150ba3a75dd157dde3280a9a2554f41ecbfee02428e"
-metafile = true
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "bee6d3dd094cf4684dee78afd84a47cd168ef0cae02a64bd7d2486fe781a3156"
 metafile = true
@@ -293,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
-metafile = true
-
-[[files]]
-file = "mods/simple-hats.pw.toml"
-hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
 metafile = true
 
 [[files]]
