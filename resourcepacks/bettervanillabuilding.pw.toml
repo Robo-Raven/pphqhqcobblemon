@@ -1,0 +1,13 @@
+name = "BetterVanillaBuilding"
+filename = "BetterVanillaBuildingV3.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBcosBrl/versions/rXky43kq/BetterVanillaBuildingV3.5.zip"
+hash-format = "sha512"
+hash = "10d47bc2b457532d0082c1baa3d3fcebc89c05bbb952f557749dbc08993579563734e02cac47a53ad45ece43a4e1cc1aea538b9663930c7c2a6f3bcfd6c25144"
+
+[update]
+[update.modrinth]
+mod-id = "LBcosBrl"
+version = "rXky43kq"
