@@ -1,11 +1,11 @@
 name = "Pphqhqcobblemon"
-version = "1.3.2"
+version = "1.3.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b9756cca04d841c96601454fa350f0686553e4ca86d3c4758468abbbdb343f6"
+hash = "16767ef399140e28739c15692cc74f5b82c6b0b7e2c4fd8490b0151def807ac0"
 
 [versions]
 minecraft = "1.21.1"
