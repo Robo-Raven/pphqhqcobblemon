@@ -191,11 +191,6 @@ hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
 metafile = true
 
 [[files]]
-file = "mods/joy-of-painting.pw.toml"
-hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
